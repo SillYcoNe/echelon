@@ -44,6 +44,7 @@ module Echelon
         'P2XA06' => 'RC Racer',
         'P2XA07' => 'Toy Soldiers Parachute Drop',
         'P2XA08' => 'Slinky Dog Zigzag Spin',
+        'P2XA09' => 'Ratatouille'
         'P2ZA00' => 'Armageddon : les Effets Spéciaux',
         'P2ZA01' => 'Rock\'n\'Roller Coaster starring Aerosmith',
         'P2ZA02' => 'The Twilight Zone Tower of Terror'
